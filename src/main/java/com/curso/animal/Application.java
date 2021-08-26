@@ -25,6 +25,8 @@ public class Application
 		
 		fish.play();
 		
-		
+		gato.walk();
+		fish.walk();
+		spider.walk();
 	}
 }
